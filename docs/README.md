@@ -1,9 +1,9 @@
-# CloudDisk
+# 文件云存储系统
 
 >   图片没有显示的话，进入到docs目录下查看
 
 ## 介绍
-基于Workflow + wfrest + MySQL和Restful风格实现的简易网页式网盘，实现了用户注册、登录、上传文件和下载文件功能。（v3.0）
+基于Workflow + wfrest + MySQL和Restful风格实现的简易网页式网盘，实现了用户注册、登录、上传文件和下载文件功能。
 
 
 
