@@ -538,22 +538,6 @@ https://help.aliyun.com/zh/oss/developer-reference/installation-12?spm=a2c4g.111
 
 注意openssl的版本
 
-
-
-## 项目优化
-
-查看AccessKey ID 和 AccessKey Secret
-
-![image-20231007192141169](README.assets/image-20231007192141169.png)
-
-![image-20231007192105075](README.assets/image-20231007192105075.png)
-
-查看EndPoint
-
-![image-20231007192300646](README.assets/image-20231007192300646.png)
-
-
-
 ### 补充备份阿里云OSS
 
 #### 代码实现
