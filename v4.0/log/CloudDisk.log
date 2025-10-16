@@ -1,0 +1,306 @@
+2023-10-06 00:23:26,986 logger [INFO] [CloudDiskServer.cc:start():26] CloudDiskServer start success!
+2023-10-06 00:45:42,831 logger [INFO] [../src/CloudDiskServer.cc:start():26] CloudDiskServer start success!
+2023-10-06 14:45:28,706 logger [INFO] [../src/CloudDiskServer.cc:start():29] CloudDiskServer start success!
+2023-10-06 14:47:16,701 logger [INFO] [../src/CloudDiskServer.cc:start():29] CloudDiskServer start success!
+2023-10-06 14:47:22,558 logger [INFO] [../src/CloudDiskServer.cc:operator()():145] SELECT salt, user_pwd FROM cloud_disk.tbl_user WHERE user_name = 'Tvux' limit 1
+2023-10-06 14:47:22,561 logger [INFO] [../src/CloudDiskServer.cc:operator()():180] 1 row in set
+2023-10-06 14:47:22,563 logger [INFO] [../src/CloudDiskServer.cc:operator()():196] REPLACE INTO cloud_disk.tbl_user_token (user_name, user_token) VALUES ('Tvux', '68b1eb005a7407b3f4a1e05701034a3620231006144722')
+2023-10-06 14:47:25,867 logger [INFO] [../src/CloudDiskServer.cc:operator()():145] SELECT salt, user_pwd FROM cloud_disk.tbl_user WHERE user_name = 'Tvux' limit 1
+2023-10-06 14:47:25,867 logger [INFO] [../src/CloudDiskServer.cc:operator()():180] 1 row in set
+2023-10-06 14:47:25,869 logger [INFO] [../src/CloudDiskServer.cc:operator()():196] REPLACE INTO cloud_disk.tbl_user_token (user_name, user_token) VALUES ('Tvux', '68b1eb005a7407b3f4a1e05701034a3620231006144725')
+2023-10-06 14:50:16,184 logger [INFO] [../src/CloudDiskServer.cc:operator()():145] SELECT salt, user_pwd FROM cloud_disk.tbl_user WHERE user_name = 'Tvux' limit 1
+2023-10-06 14:50:16,185 logger [INFO] [../src/CloudDiskServer.cc:operator()():180] 1 row in set
+2023-10-06 14:50:16,187 logger [INFO] [../src/CloudDiskServer.cc:operator()():196] REPLACE INTO cloud_disk.tbl_user_token (user_name, user_token) VALUES ('Tvux', '68b1eb005a7407b3f4a1e05701034a3620231006145016')
+2023-10-06 14:51:46,184 logger [INFO] [../src/CloudDiskServer.cc:start():29] CloudDiskServer start success!
+2023-10-06 14:52:16,827 logger [INFO] [../src/CloudDiskServer.cc:operator()():82] INSERT INTO cloud_disk.tbl_user(user_name, salt, user_pwd) VALUES('Tvux', '$6$A2uMRKP4hNKvl8gm$', '$6$A2uMRKP4hNKvl8gm$JC2/hqK9i1OKdqDKcpelawNeZJmpvgigc6CQHb/3DSW0Hssb0g7i0Eg7xnSr6SsZjod8o3NN0qNvfbr3fp6rl/')
+2023-10-06 14:52:16,832 logger [INFO] [../src/CloudDiskServer.cc:operator()():113] Query OK, 1 row affected
+2023-10-06 14:52:22,114 logger [INFO] [../src/CloudDiskServer.cc:operator()():145] SELECT salt, user_pwd FROM cloud_disk.tbl_user WHERE user_name = 'Tvux' limit 1
+2023-10-06 14:52:22,114 logger [INFO] [../src/CloudDiskServer.cc:operator()():180] 1 row in set
+2023-10-06 14:52:22,116 logger [INFO] [../src/CloudDiskServer.cc:operator()():196] REPLACE INTO cloud_disk.tbl_user_token (user_name, user_token) VALUES ('Tvux', '2c5cd49e8abc3ebafebd6c39edccad3020231006145222')
+2023-10-06 14:53:20,405 logger [INFO] [../src/CloudDiskServer.cc:start():29] CloudDiskServer start success!
+2023-10-06 14:53:25,050 logger [INFO] [../src/CloudDiskServer.cc:operator()():145] SELECT salt, user_pwd FROM cloud_disk.tbl_user WHERE user_name = 'Tvux' limit 1
+2023-10-06 14:53:25,051 logger [INFO] [../src/CloudDiskServer.cc:operator()():180] 1 row in set
+2023-10-06 14:53:25,053 logger [INFO] [../src/CloudDiskServer.cc:operator()():196] REPLACE INTO cloud_disk.tbl_user_token (user_name, user_token) VALUES ('Tvux', '2c5cd49e8abc3ebafebd6c39edccad3020231006145325')
+2023-10-06 14:57:06,921 logger [INFO] [../src/CloudDiskServer.cc:start():29] CloudDiskServer start success!
+2023-10-06 14:57:13,073 logger [INFO] [../src/CloudDiskServer.cc:operator()():152] SELECT salt, user_pwd FROM cloud_disk.tbl_user WHERE user_name = 'Tvux' limit 1
+2023-10-06 14:57:13,074 logger [INFO] [../src/CloudDiskServer.cc:operator()():187] 1 row in set
+2023-10-06 14:57:13,076 logger [INFO] [../src/CloudDiskServer.cc:operator()():203] REPLACE INTO cloud_disk.tbl_user_token (user_name, user_token) VALUES ('Tvux', '2c5cd49e8abc3ebafebd6c39edccad3020231006145713')
+2023-10-06 14:59:20,394 logger [INFO] [../src/CloudDiskServer.cc:start():29] CloudDiskServer start success!
+2023-10-06 14:59:22,604 logger [INFO] [../src/CloudDiskServer.cc:operator()():152] SELECT salt, user_pwd FROM cloud_disk.tbl_user WHERE user_name = 'Tvux' limit 1
+2023-10-06 14:59:22,605 logger [INFO] [../src/CloudDiskServer.cc:operator()():187] 1 row in set
+2023-10-06 14:59:22,608 logger [INFO] [../src/CloudDiskServer.cc:operator()():203] REPLACE INTO cloud_disk.tbl_user_token (user_name, user_token) VALUES ('Tvux', '2c5cd49e8abc3ebafebd6c39edccad3020231006145922')
+2023-10-06 14:59:22,608 logger [INFO] [../src/CloudDiskServer.cc:operator()():217] {}
+2023-10-06 15:00:30,714 logger [INFO] [../src/CloudDiskServer.cc:start():30] CloudDiskServer start success!
+2023-10-06 15:00:33,588 logger [INFO] [../src/CloudDiskServer.cc:operator()():153] SELECT salt, user_pwd FROM cloud_disk.tbl_user WHERE user_name = 'Tvux' limit 1
+2023-10-06 15:00:33,590 logger [INFO] [../src/CloudDiskServer.cc:operator()():188] 1 row in set
+2023-10-06 15:00:33,592 logger [INFO] [../src/CloudDiskServer.cc:operator()():204] REPLACE INTO cloud_disk.tbl_user_token (user_name, user_token) VALUES ('Tvux', '2c5cd49e8abc3ebafebd6c39edccad3020231006150033')
+2023-10-06 15:00:33,592 logger [INFO] [../src/CloudDiskServer.cc:operator()():219] {"data":{"Location":"/static/view/home.html","Token":"2c5cd49e8abc3ebafebd6c39edccad3020231006150033","Username":"Tvux"}}
+2023-10-06 15:19:41,107 logger [INFO] [../src/CloudDiskServer.cc:start():30] CloudDiskServer start success!
+2023-10-06 15:19:45,279 logger [INFO] [../src/CloudDiskServer.cc:operator()():153] SELECT salt, user_pwd FROM cloud_disk.tbl_user WHERE user_name = 'Tvux' limit 1
+2023-10-06 15:19:45,281 logger [INFO] [../src/CloudDiskServer.cc:operator()():188] 1 row in set
+2023-10-06 15:19:45,283 logger [INFO] [../src/CloudDiskServer.cc:operator()():204] REPLACE INTO cloud_disk.tbl_user_token (user_name, user_token) VALUES ('Tvux', '2c5cd49e8abc3ebafebd6c39edccad3020231006151945')
+2023-10-06 15:19:45,283 logger [INFO] [../src/CloudDiskServer.cc:operator()():219] {"data":{"Location":"/static/view/home.html","Token":"2c5cd49e8abc3ebafebd6c39edccad3020231006151945","Username":"Tvux"}}
+2023-10-06 15:20:50,090 logger [INFO] [../src/CloudDiskServer.cc:start():30] CloudDiskServer start success!
+2023-10-06 15:20:52,633 logger [INFO] [../src/CloudDiskServer.cc:operator()():153] SELECT salt, user_pwd FROM cloud_disk.tbl_user WHERE user_name = 'Tvux' limit 1
+2023-10-06 15:20:52,635 logger [INFO] [../src/CloudDiskServer.cc:operator()():188] 1 row in set
+2023-10-06 15:20:52,637 logger [INFO] [../src/CloudDiskServer.cc:operator()():204] REPLACE INTO cloud_disk.tbl_user_token (user_name, user_token) VALUES ('Tvux', '2c5cd49e8abc3ebafebd6c39edccad3020231006152052')
+2023-10-06 15:20:52,637 logger [INFO] [../src/CloudDiskServer.cc:operator()():220] {"data":{"Location":"/static/view/home.html","Token":"2c5cd49e8abc3ebafebd6c39edccad3020231006152052","Username":"Tvux"}}
+2023-10-06 15:43:50,534 logger [INFO] [../src/CloudDiskServer.cc:start():30] CloudDiskServer start success!
+2023-10-06 15:44:06,387 logger [INFO] [../src/CloudDiskServer.cc:operator()():90] INSERT INTO cloud_disk.tbl_user(user_name, salt, user_pwd) VALUES('Tvux', '$6$WlneEqA3u26wS6d9$', '$6$WlneEqA3u26wS6d9$BiBCP8LvhGAjsmHCzKf1kZKisNp7k3Mr8hapPhpCbp2rc9tH5LlpPw5oEKSs9SkLhSeCWvVvT8qIpC5mfP07/.')
+2023-10-06 15:44:06,390 logger [ERROR] [../src/CloudDiskServer.cc:operator()():110] ERROR 1062: Duplicate entry 'Tvux' for key 'tbl_user.idx_username'
+2023-10-06 15:44:18,526 logger [INFO] [../src/CloudDiskServer.cc:operator()():90] INSERT INTO cloud_disk.tbl_user(user_name, salt, user_pwd) VALUES('Tvux', '$6$PImaqWFaVEZYAAY0$', '$6$PImaqWFaVEZYAAY0$qzbdFIULWGLYFDA9QxXxhJjGbbM/6NScxQ4V1.F4tdqwx3MswhOtzl1hpfw72oYASzMs6a7T.Q0nYSTfquwfa0')
+2023-10-06 15:44:18,527 logger [ERROR] [../src/CloudDiskServer.cc:operator()():110] ERROR 1062: Duplicate entry 'Tvux' for key 'tbl_user.idx_username'
+2023-10-06 15:45:23,129 logger [INFO] [../src/CloudDiskServer.cc:operator()():90] INSERT INTO cloud_disk.tbl_user(user_name, salt, user_pwd) VALUES('Tvux', '$6$TPPlV4rZr2GMBjpb$', '$6$TPPlV4rZr2GMBjpb$mls44zTby78nwkJUcc8oVtiEVnbVenX1gEU.1ZTCYzzMjNlzDBEdMdRW7AcxwMJ1qu7qj6uyZhOdCvG3xrOhL/')
+2023-10-06 15:45:23,132 logger [INFO] [../src/CloudDiskServer.cc:operator()():121] Query OK, 1 row affected
+2023-10-06 17:19:46,963 logger [INFO] [../src/CloudDiskServer.cc:start():30] CloudDiskServer start success!
+2023-10-06 17:20:11,671 logger [INFO] [../src/CloudDiskServer.cc:operator()():153] SELECT salt, user_pwd FROM cloud_disk.tbl_user WHERE user_name = 'Tvux' limit 1
+2023-10-06 17:20:11,676 logger [INFO] [../src/CloudDiskServer.cc:operator()():188] 1 row in set
+2023-10-06 17:20:11,678 logger [INFO] [../src/CloudDiskServer.cc:operator()():204] REPLACE INTO cloud_disk.tbl_user_token (user_name, user_token) VALUES ('Tvux', '5de172ee9004fe0398cfc120062fddaf20231006172011')
+2023-10-06 17:20:11,678 logger [INFO] [../src/CloudDiskServer.cc:operator()():220] {"data":{"Location":"/static/view/home.html","Token":"5de172ee9004fe0398cfc120062fddaf20231006172011","Username":"Tvux"}}
+2023-10-06 17:21:14,155 logger [INFO] [../src/CloudDiskServer.cc:start():30] CloudDiskServer start success!
+2023-10-06 17:36:01,479 logger [INFO] [../src/CloudDiskServer.cc:start():31] CloudDiskServer start success!
+2023-10-06 17:36:12,241 logger [INFO] [../src/CloudDiskServer.cc:operator()():95] INSERT INTO cloud_disk.tbl_user(user_name, salt, user_pwd, email, phone) VALUES('Tvux', '$6$K34Vf7qRCVR8aBF1$', '$6$K34Vf7qRCVR8aBF1$yHyhqRcHySHrdCgIq86ethUvWPr5U5DZx61.iC9rZWPGs4yWanphLIyM2XLePaLewNw2VU1ptaZFTnT1B1bbe.', '87031129293@qq.com', '87031129293')
+2023-10-06 17:36:12,247 logger [INFO] [../src/CloudDiskServer.cc:operator()():126] Query OK, 1 row affected
+2023-10-06 17:36:17,413 logger [INFO] [../src/CloudDiskServer.cc:operator()():158] SELECT salt, user_pwd FROM cloud_disk.tbl_user WHERE user_name = 'Tvux' limit 1
+2023-10-06 17:36:17,414 logger [INFO] [../src/CloudDiskServer.cc:operator()():193] 1 row in set
+2023-10-06 17:36:17,416 logger [INFO] [../src/CloudDiskServer.cc:operator()():209] REPLACE INTO cloud_disk.tbl_user_token (user_name, user_token) VALUES ('Tvux', '0a9000da0ec3a0668c8186b481b96ec920231006173617')
+2023-10-06 17:36:17,416 logger [INFO] [../src/CloudDiskServer.cc:operator()():225] {"data":{"Location":"/static/view/home.html","Token":"0a9000da0ec3a0668c8186b481b96ec920231006173617","Username":"Tvux"}}
+2023-10-06 17:47:28,330 logger [INFO] [../src/CloudDiskServer.cc:start():30] CloudDiskServer start success!
+2023-10-06 19:03:08,907 logger [INFO] [../src/CloudDiskServer.cc:start():30] CloudDiskServer start success!
+2023-10-06 19:03:29,305 logger [INFO] [../src/CloudDiskServer.cc:operator()():161] SELECT salt, user_pwd FROM cloud_disk.tbl_user WHERE user_name = 'Tvux' limit 1
+2023-10-06 19:03:29,309 logger [INFO] [../src/CloudDiskServer.cc:operator()():196] 1 row in set
+2023-10-06 19:03:29,311 logger [INFO] [../src/CloudDiskServer.cc:operator()():220] SET Tvux 0a9000da0ec3a0668c8186b481b96ec920231006190329
+2023-10-06 19:03:29,311 logger [INFO] [../src/CloudDiskServer.cc:operator()():229] REPLACE INTO cloud_disk.tbl_user_token (user_name, user_token) VALUES ('Tvux', '0a9000da0ec3a0668c8186b481b96ec920231006190329')
+2023-10-06 19:03:29,311 logger [INFO] [../src/CloudDiskServer.cc:operator()():245] {"data":{"Location":"/static/view/home.html","Token":"0a9000da0ec3a0668c8186b481b96ec920231006190329","Username":"Tvux"}}
+2023-10-06 19:03:29,312 logger [INFO] [../src/CloudDiskServer.cc:operator()():214] EXPIRE Tvux 60
+2023-10-06 19:39:30,471 logger [INFO] [../src/CloudDiskServer.cc:start():30] CloudDiskServer start success!
+2023-10-06 19:39:36,113 logger [INFO] [../src/CloudDiskServer.cc:operator()():161] SELECT salt, user_pwd FROM cloud_disk.tbl_user WHERE user_name = 'Tvux' limit 1
+2023-10-06 19:39:36,116 logger [INFO] [../src/CloudDiskServer.cc:operator()():196] 1 row in set
+2023-10-06 19:39:36,118 logger [INFO] [../src/CloudDiskServer.cc:operator()():220] SET Tvux 0a9000da0ec3a0668c8186b481b96ec920231006193936
+2023-10-06 19:39:36,118 logger [INFO] [../src/CloudDiskServer.cc:operator()():229] REPLACE INTO cloud_disk.tbl_user_token (user_name, user_token) VALUES ('Tvux', '0a9000da0ec3a0668c8186b481b96ec920231006193936')
+2023-10-06 19:39:36,118 logger [INFO] [../src/CloudDiskServer.cc:operator()():245] {"data":{"Location":"/static/view/home.html","Token":"0a9000da0ec3a0668c8186b481b96ec920231006193936","Username":"Tvux"}}
+2023-10-06 19:39:36,119 logger [INFO] [../src/CloudDiskServer.cc:operator()():214] EXPIRE Tvux 60
+2023-10-06 19:39:36,284 logger [INFO] [../src/CloudDiskServer.cc:operator()():266] username = Tvux, token = 0a9000da0ec3a0668c8186b481b96ec920231006193936
+2023-10-06 19:39:36,284 logger [INFO] [../src/CloudDiskServer.cc:operator()():327] GET Tvux
+2023-10-06 19:39:36,285 logger [INFO] [../src/CloudDiskServer.cc:operator()():292] 1 row in set
+2023-10-06 19:39:36,285 logger [INFO] [../src/CloudDiskServer.cc:operator()():305] {"data":{"Email":"87031129293@qq.com","Phone":"87031129293","SignupAt":"2023-10-06 17:36:12","Username":"Tvux"}}
+2023-10-06 19:41:25,281 logger [INFO] [../src/CloudDiskServer.cc:operator()():266] username = Tvux, token = 0a9000da0ec3a0668c8186b481b96ec920231006193936
+2023-10-06 19:41:25,281 logger [INFO] [../src/CloudDiskServer.cc:operator()():327] GET Tvux
+2023-10-06 19:41:25,281 logger [ERROR] [../src/CloudDiskServer.cc:operator()():320] token expired
+2023-10-06 19:41:32,486 logger [INFO] [../src/CloudDiskServer.cc:operator()():161] SELECT salt, user_pwd FROM cloud_disk.tbl_user WHERE user_name = 'Tvux' limit 1
+2023-10-06 19:41:32,488 logger [INFO] [../src/CloudDiskServer.cc:operator()():196] 1 row in set
+2023-10-06 19:41:32,490 logger [INFO] [../src/CloudDiskServer.cc:operator()():220] SET Tvux 0a9000da0ec3a0668c8186b481b96ec920231006194132
+2023-10-06 19:41:32,490 logger [INFO] [../src/CloudDiskServer.cc:operator()():229] REPLACE INTO cloud_disk.tbl_user_token (user_name, user_token) VALUES ('Tvux', '0a9000da0ec3a0668c8186b481b96ec920231006194132')
+2023-10-06 19:41:32,490 logger [INFO] [../src/CloudDiskServer.cc:operator()():245] {"data":{"Location":"/static/view/home.html","Token":"0a9000da0ec3a0668c8186b481b96ec920231006194132","Username":"Tvux"}}
+2023-10-06 19:41:32,490 logger [INFO] [../src/CloudDiskServer.cc:operator()():214] EXPIRE Tvux 60
+2023-10-06 19:41:32,641 logger [INFO] [../src/CloudDiskServer.cc:operator()():266] username = Tvux, token = 0a9000da0ec3a0668c8186b481b96ec920231006194132
+2023-10-06 19:41:32,641 logger [INFO] [../src/CloudDiskServer.cc:operator()():327] GET Tvux
+2023-10-06 19:41:32,642 logger [INFO] [../src/CloudDiskServer.cc:operator()():292] 1 row in set
+2023-10-06 19:41:32,642 logger [INFO] [../src/CloudDiskServer.cc:operator()():305] {"data":{"Email":"87031129293@qq.com","Phone":"87031129293","SignupAt":"2023-10-06 17:36:12","Username":"Tvux"}}
+2023-10-06 21:58:33,538 logger [INFO] [../src/CloudDiskServer.cc:start():30] CloudDiskServer start success!
+2023-10-06 21:58:45,598 logger [INFO] [../src/CloudDiskServer.cc:operator()():98] INSERT INTO cloud_disk.tbl_user(user_name, salt, user_pwd, email, phone) VALUES('Tvux', '$6$pF4XRv1nJUxnABDM$', '$6$pF4XRv1nJUxnABDM$SHHsBcjLqlGYv3TulW45JIuzycodWI1WNUKvfHR1U4uOWOadTN214AfIKORC7TLEHRKjcm3IZmQ7CUy2PhbCr1', '77033933349@qq.com', '77033933349')
+2023-10-06 21:58:45,605 logger [INFO] [../src/CloudDiskServer.cc:operator()():129] Query OK, 1 row affected
+2023-10-06 21:58:50,908 logger [INFO] [../src/CloudDiskServer.cc:operator()():161] SELECT salt, user_pwd FROM cloud_disk.tbl_user WHERE user_name = 'Tvux' limit 1
+2023-10-06 21:58:50,909 logger [INFO] [../src/CloudDiskServer.cc:operator()():196] 1 row in set
+2023-10-06 21:58:50,911 logger [INFO] [../src/CloudDiskServer.cc:operator()():220] SET Tvux 7f9d29467c7366c83fffa380e80eaaf620231006215850
+2023-10-06 21:58:50,911 logger [INFO] [../src/CloudDiskServer.cc:operator()():229] REPLACE INTO cloud_disk.tbl_user_token (user_name, user_token) VALUES ('Tvux', '7f9d29467c7366c83fffa380e80eaaf620231006215850')
+2023-10-06 21:58:50,911 logger [INFO] [../src/CloudDiskServer.cc:operator()():245] {"data":{"Location":"/static/view/home.html","Token":"7f9d29467c7366c83fffa380e80eaaf620231006215850","Username":"Tvux"}}
+2023-10-06 21:58:50,912 logger [INFO] [../src/CloudDiskServer.cc:operator()():214] EXPIRE Tvux 60
+2023-10-06 21:58:51,081 logger [INFO] [../src/CloudDiskServer.cc:operator()():266] username = Tvux, token = 7f9d29467c7366c83fffa380e80eaaf620231006215850
+2023-10-06 21:58:51,081 logger [INFO] [../src/CloudDiskServer.cc:operator()():328] GET Tvux
+2023-10-06 21:58:51,081 logger [INFO] [../src/CloudDiskServer.cc:operator()():282] SELECT email, phone, signup_at FROM cloud_disk.tbl_user WHERE user_name = 'Tvux' limit 1
+2023-10-06 21:58:51,082 logger [INFO] [../src/CloudDiskServer.cc:operator()():293] 1 row in set
+2023-10-06 21:58:51,082 logger [INFO] [../src/CloudDiskServer.cc:operator()():306] {"data":{"Email":"77033933349@qq.com","Phone":"77033933349","SignupAt":"2023-10-06 21:58:45","Username":"Tvux"}}
+2023-10-06 21:59:44,088 logger [INFO] [../src/CloudDiskServer.cc:operator()():266] username = Tvux, token = 7f9d29467c7366c83fffa380e80eaaf620231006215850
+2023-10-06 21:59:44,088 logger [INFO] [../src/CloudDiskServer.cc:operator()():328] GET Tvux
+2023-10-06 21:59:44,088 logger [INFO] [../src/CloudDiskServer.cc:operator()():282] SELECT email, phone, signup_at FROM cloud_disk.tbl_user WHERE user_name = 'Tvux' limit 1
+2023-10-06 21:59:44,089 logger [INFO] [../src/CloudDiskServer.cc:operator()():293] 1 row in set
+2023-10-06 21:59:44,089 logger [INFO] [../src/CloudDiskServer.cc:operator()():306] {"data":{"Email":"77033933349@qq.com","Phone":"77033933349","SignupAt":"2023-10-06 21:58:45","Username":"Tvux"}}
+2023-10-06 22:01:06,183 logger [INFO] [../src/CloudDiskServer.cc:start():30] CloudDiskServer start success!
+2023-10-06 22:01:09,132 logger [INFO] [../src/CloudDiskServer.cc:operator()():266] username = Tvux, token = 7f9d29467c7366c83fffa380e80eaaf620231006215850
+2023-10-06 22:01:09,132 logger [INFO] [../src/CloudDiskServer.cc:operator()():328] GET Tvux
+2023-10-06 22:01:09,132 logger [ERROR] [../src/CloudDiskServer.cc:operator()():321] token expired
+2023-10-06 22:01:11,357 logger [INFO] [../src/CloudDiskServer.cc:operator()():161] SELECT salt, user_pwd FROM cloud_disk.tbl_user WHERE user_name = 'Tvux' limit 1
+2023-10-06 22:01:11,359 logger [INFO] [../src/CloudDiskServer.cc:operator()():196] 1 row in set
+2023-10-06 22:01:11,361 logger [INFO] [../src/CloudDiskServer.cc:operator()():220] SET Tvux 7f9d29467c7366c83fffa380e80eaaf620231006220111
+2023-10-06 22:01:11,361 logger [INFO] [../src/CloudDiskServer.cc:operator()():229] REPLACE INTO cloud_disk.tbl_user_token (user_name, user_token) VALUES ('Tvux', '7f9d29467c7366c83fffa380e80eaaf620231006220111')
+2023-10-06 22:01:11,361 logger [INFO] [../src/CloudDiskServer.cc:operator()():245] {"data":{"Location":"/static/view/home.html","Token":"7f9d29467c7366c83fffa380e80eaaf620231006220111","Username":"Tvux"}}
+2023-10-06 22:01:11,361 logger [INFO] [../src/CloudDiskServer.cc:operator()():214] EXPIRE Tvux 60
+2023-10-06 22:01:11,505 logger [INFO] [../src/CloudDiskServer.cc:operator()():266] username = Tvux, token = 7f9d29467c7366c83fffa380e80eaaf620231006220111
+2023-10-06 22:01:11,505 logger [INFO] [../src/CloudDiskServer.cc:operator()():328] GET Tvux
+2023-10-06 22:01:11,505 logger [INFO] [../src/CloudDiskServer.cc:operator()():282] SELECT email, phone, signup_at FROM cloud_disk.tbl_user WHERE user_name = 'Tvux' limit 1
+2023-10-06 22:01:11,506 logger [INFO] [../src/CloudDiskServer.cc:operator()():293] 1 row in set
+2023-10-06 22:01:11,506 logger [INFO] [../src/CloudDiskServer.cc:operator()():306] {"data":{"Email":"77033933349@qq.com","Phone":"77033933349","SignupAt":"2023-10-06 21:58:45","Username":"Tvux"}}
+2023-10-06 22:01:11,517 logger [INFO] [../src/CloudDiskServer.cc:operator()():342] username = Tvux, token = 7f9d29467c7366c83fffa380e80eaaf620231006220111, limit = 15
+2023-10-06 22:01:11,517 logger [INFO] [../src/CloudDiskServer.cc:operator()():402] GET Tvux
+2023-10-06 22:01:11,517 logger [INFO] [../src/CloudDiskServer.cc:operator()():357] SELECT file_hash, file_size, file_name, upload_at, last_update FROM cloud_disk.tbl_user_file WHERE user_name = 'Tvux' limit 15
+2023-10-06 22:01:11,518 logger [INFO] [../src/CloudDiskServer.cc:operator()():366] 1 row in set
+2023-10-06 22:01:11,519 logger [INFO] [../src/CloudDiskServer.cc:operator()():383] {"FileHash":"aaa","FileName":"bbb","FileSize":123,"LastUpdated":"2023-10-06 21:59:40","UploadAt":"2023-10-06 21:59:40"}
+2023-10-06 22:19:04,364 logger [INFO] [../src/CloudDiskServer.cc:start():30] CloudDiskServer start success!
+2023-10-06 22:19:09,186 logger [INFO] [../src/CloudDiskServer.cc:operator()():276] username = Tvux, token = 7f9d29467c7366c83fffa380e80eaaf620231006220111
+2023-10-06 22:19:09,187 logger [INFO] [../src/CloudDiskServer.cc:operator()():338] GET Tvux
+2023-10-06 22:19:09,187 logger [ERROR] [../src/CloudDiskServer.cc:operator()():331] token expired
+2023-10-06 22:19:11,033 logger [INFO] [../src/CloudDiskServer.cc:operator()():170] SELECT salt, user_pwd FROM cloud_disk.tbl_user WHERE user_name = 'Tvux' limit 1
+2023-10-06 22:19:11,035 logger [INFO] [../src/CloudDiskServer.cc:operator()():205] 1 row in set
+2023-10-06 22:19:11,037 logger [INFO] [../src/CloudDiskServer.cc:operator()():230] SET Tvux 7f9d29467c7366c83fffa380e80eaaf620231006221911
+2023-10-06 22:19:11,038 logger [INFO] [../src/CloudDiskServer.cc:operator()():239] REPLACE INTO cloud_disk.tbl_user_token (user_name, user_token) VALUES ('Tvux', '7f9d29467c7366c83fffa380e80eaaf620231006221911')
+2023-10-06 22:19:11,038 logger [INFO] [../src/CloudDiskServer.cc:operator()():255] {"data":{"Location":"/static/view/home.html","Token":"7f9d29467c7366c83fffa380e80eaaf620231006221911","Username":"Tvux"}}
+2023-10-06 22:19:11,038 logger [INFO] [../src/CloudDiskServer.cc:operator()():224] EXPIRE Tvux 1800
+2023-10-06 22:19:11,188 logger [INFO] [../src/CloudDiskServer.cc:operator()():276] username = Tvux, token = 7f9d29467c7366c83fffa380e80eaaf620231006221911
+2023-10-06 22:19:11,188 logger [INFO] [../src/CloudDiskServer.cc:operator()():338] GET Tvux
+2023-10-06 22:19:11,189 logger [INFO] [../src/CloudDiskServer.cc:operator()():292] SELECT email, phone, signup_at FROM cloud_disk.tbl_user WHERE user_name = 'Tvux' limit 1
+2023-10-06 22:19:11,190 logger [INFO] [../src/CloudDiskServer.cc:operator()():303] 1 row in set
+2023-10-06 22:19:11,190 logger [INFO] [../src/CloudDiskServer.cc:operator()():316] {"data":{"Email":"77033933349@qq.com","Phone":"77033933349","SignupAt":"2023-10-06 21:58:45","Username":"Tvux"}}
+2023-10-06 22:19:11,197 logger [INFO] [../src/CloudDiskServer.cc:operator()():352] username = Tvux, token = 7f9d29467c7366c83fffa380e80eaaf620231006221911, limit = 15
+2023-10-06 22:19:11,197 logger [INFO] [../src/CloudDiskServer.cc:operator()():412] GET Tvux
+2023-10-06 22:19:11,197 logger [INFO] [../src/CloudDiskServer.cc:operator()():367] SELECT file_hash, file_size, file_name, upload_at, last_update FROM cloud_disk.tbl_user_file WHERE user_name = 'Tvux' limit 15
+2023-10-06 22:19:11,198 logger [INFO] [../src/CloudDiskServer.cc:operator()():376] 1 row in set
+2023-10-06 22:19:11,199 logger [INFO] [../src/CloudDiskServer.cc:operator()():393] {"FileHash":"aaa","FileName":"bbb","FileSize":123,"LastUpdated":"2023-10-06 21:59:40","UploadAt":"2023-10-06 21:59:40"}
+2023-10-06 22:22:33,148 logger [INFO] [../src/CloudDiskServer.cc:operator()():352] username = Tvux, token = 7f9d29467c7366c83fffa380e80eaaf620231006221911, limit = 15
+2023-10-06 22:22:33,148 logger [INFO] [../src/CloudDiskServer.cc:operator()():412] GET Tvux
+2023-10-06 22:22:33,149 logger [ERROR] [../src/CloudDiskServer.cc:operator()():405] token expired
+2023-10-06 22:22:56,705 logger [INFO] [../src/CloudDiskServer.cc:operator()():276] username = Tvux, token = 7f9d29467c7366c83fffa380e80eaaf620231006221911
+2023-10-06 22:22:56,705 logger [INFO] [../src/CloudDiskServer.cc:operator()():338] GET Tvux
+2023-10-06 22:22:56,706 logger [ERROR] [../src/CloudDiskServer.cc:operator()():331] token expired
+2023-10-06 22:22:57,775 logger [INFO] [../src/CloudDiskServer.cc:operator()():276] username = Tvux, token = 7f9d29467c7366c83fffa380e80eaaf620231006221911
+2023-10-06 22:22:57,775 logger [INFO] [../src/CloudDiskServer.cc:operator()():338] GET Tvux
+2023-10-06 22:22:57,775 logger [ERROR] [../src/CloudDiskServer.cc:operator()():331] token expired
+2023-10-06 22:23:01,315 logger [INFO] [../src/CloudDiskServer.cc:operator()():170] SELECT salt, user_pwd FROM cloud_disk.tbl_user WHERE user_name = 'Tvux' limit 1
+2023-10-06 22:23:01,317 logger [INFO] [../src/CloudDiskServer.cc:operator()():205] 1 row in set
+2023-10-06 22:23:01,319 logger [INFO] [../src/CloudDiskServer.cc:operator()():230] SET Tvux 7f9d29467c7366c83fffa380e80eaaf620231006222301
+2023-10-06 22:23:01,319 logger [INFO] [../src/CloudDiskServer.cc:operator()():239] REPLACE INTO cloud_disk.tbl_user_token (user_name, user_token) VALUES ('Tvux', '7f9d29467c7366c83fffa380e80eaaf620231006222301')
+2023-10-06 22:23:01,319 logger [INFO] [../src/CloudDiskServer.cc:operator()():255] {"data":{"Location":"/static/view/home.html","Token":"7f9d29467c7366c83fffa380e80eaaf620231006222301","Username":"Tvux"}}
+2023-10-06 22:23:01,319 logger [INFO] [../src/CloudDiskServer.cc:operator()():224] EXPIRE Tvux 1800
+2023-10-06 22:23:01,478 logger [INFO] [../src/CloudDiskServer.cc:operator()():276] username = Tvux, token = 7f9d29467c7366c83fffa380e80eaaf620231006222301
+2023-10-06 22:23:01,479 logger [INFO] [../src/CloudDiskServer.cc:operator()():338] GET Tvux
+2023-10-06 22:23:01,479 logger [INFO] [../src/CloudDiskServer.cc:operator()():292] SELECT email, phone, signup_at FROM cloud_disk.tbl_user WHERE user_name = 'Tvux' limit 1
+2023-10-06 22:23:01,479 logger [INFO] [../src/CloudDiskServer.cc:operator()():303] 1 row in set
+2023-10-06 22:23:01,479 logger [INFO] [../src/CloudDiskServer.cc:operator()():316] {"data":{"Email":"77033933349@qq.com","Phone":"77033933349","SignupAt":"2023-10-06 21:58:45","Username":"Tvux"}}
+2023-10-06 22:23:01,487 logger [INFO] [../src/CloudDiskServer.cc:operator()():352] username = Tvux, token = 7f9d29467c7366c83fffa380e80eaaf620231006222301, limit = 15
+2023-10-06 22:23:01,487 logger [INFO] [../src/CloudDiskServer.cc:operator()():412] GET Tvux
+2023-10-06 22:23:01,487 logger [INFO] [../src/CloudDiskServer.cc:operator()():367] SELECT file_hash, file_size, file_name, upload_at, last_update FROM cloud_disk.tbl_user_file WHERE user_name = 'Tvux' limit 15
+2023-10-06 22:23:01,488 logger [INFO] [../src/CloudDiskServer.cc:operator()():376] 1 row in set
+2023-10-06 22:23:01,488 logger [INFO] [../src/CloudDiskServer.cc:operator()():393] {"FileHash":"aaa","FileName":"bbb","FileSize":123,"LastUpdated":"2023-10-06 21:59:40","UploadAt":"2023-10-06 21:59:40"}
+2023-10-07 00:59:53,956 logger [INFO] [../src/CloudDiskServer.cc:start():30] CloudDiskServer start success!
+2023-10-07 01:00:08,414 logger [INFO] [../src/CloudDiskServer.cc:operator()():170] SELECT salt, user_pwd FROM cloud_disk.tbl_user WHERE user_name = 'Tvux' limit 1
+2023-10-07 01:00:08,418 logger [INFO] [../src/CloudDiskServer.cc:operator()():205] 1 row in set
+2023-10-07 01:00:08,421 logger [INFO] [../src/CloudDiskServer.cc:operator()():230] SET Tvux 7f9d29467c7366c83fffa380e80eaaf620231007010008
+2023-10-07 01:00:08,421 logger [INFO] [../src/CloudDiskServer.cc:operator()():239] REPLACE INTO cloud_disk.tbl_user_token (user_name, user_token) VALUES ('Tvux', '7f9d29467c7366c83fffa380e80eaaf620231007010008')
+2023-10-07 01:00:08,421 logger [INFO] [../src/CloudDiskServer.cc:operator()():255] {"data":{"Location":"/static/view/home.html","Token":"7f9d29467c7366c83fffa380e80eaaf620231007010008","Username":"Tvux"}}
+2023-10-07 01:00:08,422 logger [INFO] [../src/CloudDiskServer.cc:operator()():224] EXPIRE Tvux 1800
+2023-10-07 01:00:08,572 logger [INFO] [../src/CloudDiskServer.cc:operator()():276] username = Tvux, token = 7f9d29467c7366c83fffa380e80eaaf620231007010008
+2023-10-07 01:00:08,572 logger [INFO] [../src/CloudDiskServer.cc:operator()():338] GET Tvux
+2023-10-07 01:00:08,572 logger [INFO] [../src/CloudDiskServer.cc:operator()():292] SELECT email, phone, signup_at FROM cloud_disk.tbl_user WHERE user_name = 'Tvux' limit 1
+2023-10-07 01:00:08,573 logger [INFO] [../src/CloudDiskServer.cc:operator()():303] 1 row in set
+2023-10-07 01:00:08,573 logger [INFO] [../src/CloudDiskServer.cc:operator()():316] {"data":{"Email":"77033933349@qq.com","Phone":"77033933349","SignupAt":"2023-10-06 21:58:45","Username":"Tvux"}}
+2023-10-07 01:00:08,579 logger [INFO] [../src/CloudDiskServer.cc:operator()():352] username = Tvux, token = 7f9d29467c7366c83fffa380e80eaaf620231007010008, limit = 15
+2023-10-07 01:00:08,579 logger [INFO] [../src/CloudDiskServer.cc:operator()():412] GET Tvux
+2023-10-07 01:00:08,579 logger [INFO] [../src/CloudDiskServer.cc:operator()():367] SELECT file_hash, file_size, file_name, upload_at, last_update FROM cloud_disk.tbl_user_file WHERE user_name = 'Tvux' limit 15
+2023-10-07 01:00:08,581 logger [INFO] [../src/CloudDiskServer.cc:operator()():376] 1 row in set
+2023-10-07 01:00:08,581 logger [INFO] [../src/CloudDiskServer.cc:operator()():393] {"FileHash":"aaa","FileName":"bbb","FileSize":123,"LastUpdated":"2023-10-06 21:59:40","UploadAt":"2023-10-06 21:59:40"}
+2023-10-07 01:00:10,100 logger [INFO] [../src/CloudDiskServer.cc:operator()():431] username = Tvux, token = 7f9d29467c7366c83fffa380e80eaaf620231007010008, filename = bbb
+2023-10-07 01:00:10,100 logger [INFO] [../src/CloudDiskServer.cc:operator()():460] GET Tvux
+2023-10-07 01:46:54,376 logger [INFO] [../src/CloudDiskServer.cc:start():35] CloudDiskServer start success!
+2023-10-07 01:47:04,341 logger [INFO] [../src/CloudDiskServer.cc:operator()():357] username = Tvux, token = 7f9d29467c7366c83fffa380e80eaaf620231007010008, limit = 15
+2023-10-07 01:47:04,342 logger [INFO] [../src/CloudDiskServer.cc:operator()():417] GET Tvux
+2023-10-07 01:47:04,342 logger [ERROR] [../src/CloudDiskServer.cc:operator()():410] token expired
+2023-10-07 01:47:06,544 logger [INFO] [../src/CloudDiskServer.cc:operator()():281] username = Tvux, token = 7f9d29467c7366c83fffa380e80eaaf620231007010008
+2023-10-07 01:47:06,544 logger [INFO] [../src/CloudDiskServer.cc:operator()():343] GET Tvux
+2023-10-07 01:47:06,545 logger [ERROR] [../src/CloudDiskServer.cc:operator()():336] token expired
+2023-10-07 01:47:08,094 logger [INFO] [../src/CloudDiskServer.cc:operator()():281] username = Tvux, token = 7f9d29467c7366c83fffa380e80eaaf620231007010008
+2023-10-07 01:47:08,094 logger [INFO] [../src/CloudDiskServer.cc:operator()():343] GET Tvux
+2023-10-07 01:47:08,094 logger [ERROR] [../src/CloudDiskServer.cc:operator()():336] token expired
+2023-10-07 01:47:10,077 logger [INFO] [../src/CloudDiskServer.cc:operator()():175] SELECT salt, user_pwd FROM cloud_disk.tbl_user WHERE user_name = 'Tvux' limit 1
+2023-10-07 01:47:10,080 logger [INFO] [../src/CloudDiskServer.cc:operator()():210] 1 row in set
+2023-10-07 01:47:10,082 logger [INFO] [../src/CloudDiskServer.cc:operator()():235] SET Tvux 7f9d29467c7366c83fffa380e80eaaf620231007014710
+2023-10-07 01:47:10,082 logger [INFO] [../src/CloudDiskServer.cc:operator()():244] REPLACE INTO cloud_disk.tbl_user_token (user_name, user_token) VALUES ('Tvux', '7f9d29467c7366c83fffa380e80eaaf620231007014710')
+2023-10-07 01:47:10,082 logger [INFO] [../src/CloudDiskServer.cc:operator()():260] {"data":{"Location":"/static/view/home.html","Token":"7f9d29467c7366c83fffa380e80eaaf620231007014710","Username":"Tvux"}}
+2023-10-07 01:47:10,082 logger [INFO] [../src/CloudDiskServer.cc:operator()():229] EXPIRE Tvux 1800
+2023-10-07 01:47:10,224 logger [INFO] [../src/CloudDiskServer.cc:operator()():281] username = Tvux, token = 7f9d29467c7366c83fffa380e80eaaf620231007014710
+2023-10-07 01:47:10,224 logger [INFO] [../src/CloudDiskServer.cc:operator()():343] GET Tvux
+2023-10-07 01:47:10,225 logger [INFO] [../src/CloudDiskServer.cc:operator()():297] SELECT email, phone, signup_at FROM cloud_disk.tbl_user WHERE user_name = 'Tvux' limit 1
+2023-10-07 01:47:10,225 logger [INFO] [../src/CloudDiskServer.cc:operator()():308] 1 row in set
+2023-10-07 01:47:10,225 logger [INFO] [../src/CloudDiskServer.cc:operator()():321] {"data":{"Email":"77033933349@qq.com","Phone":"77033933349","SignupAt":"2023-10-06 21:58:45","Username":"Tvux"}}
+2023-10-07 01:47:10,229 logger [INFO] [../src/CloudDiskServer.cc:operator()():357] username = Tvux, token = 7f9d29467c7366c83fffa380e80eaaf620231007014710, limit = 15
+2023-10-07 01:47:10,229 logger [INFO] [../src/CloudDiskServer.cc:operator()():417] GET Tvux
+2023-10-07 01:47:10,229 logger [INFO] [../src/CloudDiskServer.cc:operator()():372] SELECT file_hash, file_size, file_name, upload_at, last_update FROM cloud_disk.tbl_user_file WHERE user_name = 'Tvux' limit 15
+2023-10-07 01:47:10,230 logger [INFO] [../src/CloudDiskServer.cc:operator()():381] 1 row in set
+2023-10-07 01:47:10,230 logger [INFO] [../src/CloudDiskServer.cc:operator()():398] {"FileHash":"aaa","FileName":"bbb","FileSize":123,"LastUpdated":"2023-10-06 21:59:40","UploadAt":"2023-10-06 21:59:40"}
+2023-10-07 01:47:31,838 logger [INFO] [../src/CloudDiskServer.cc:operator()():434] username = Tvux, token = 7f9d29467c7366c83fffa380e80eaaf620231007014710, filename = °¤Î¤±¾.txt
+2023-10-07 01:47:31,838 logger [INFO] [../src/CloudDiskServer.cc:operator()():491] GET Tvux
+2023-10-07 01:47:31,838 logger [INFO] [../src/CloudDiskServer.cc:operator()():453] create ./Tvux/°¤Î¤±¾.txt complete
+2023-10-07 01:47:31,839 logger [INFO] [../src/CloudDiskServer.cc:operator()():474] INSERT INTO cloud_disk.tbl_user_file(user_name, file_hash, file_size, file_name) VALUES('Tvux', 'd79f3ef34f9aba2a58421b1cf20bc95419dc7079', 62, '°¤Î¤±¾.txt')
+2023-10-07 01:47:31,992 logger [INFO] [../src/CloudDiskServer.cc:operator()():281] username = Tvux, token = 7f9d29467c7366c83fffa380e80eaaf620231007014710
+2023-10-07 01:47:31,992 logger [INFO] [../src/CloudDiskServer.cc:operator()():343] GET Tvux
+2023-10-07 01:47:31,992 logger [INFO] [../src/CloudDiskServer.cc:operator()():297] SELECT email, phone, signup_at FROM cloud_disk.tbl_user WHERE user_name = 'Tvux' limit 1
+2023-10-07 01:47:31,992 logger [INFO] [../src/CloudDiskServer.cc:operator()():308] 1 row in set
+2023-10-07 01:47:31,992 logger [INFO] [../src/CloudDiskServer.cc:operator()():321] {"data":{"Email":"77033933349@qq.com","Phone":"77033933349","SignupAt":"2023-10-06 21:58:45","Username":"Tvux"}}
+2023-10-07 01:47:31,996 logger [INFO] [../src/CloudDiskServer.cc:operator()():357] username = Tvux, token = 7f9d29467c7366c83fffa380e80eaaf620231007014710, limit = 15
+2023-10-07 01:47:31,996 logger [INFO] [../src/CloudDiskServer.cc:operator()():417] GET Tvux
+2023-10-07 01:47:31,996 logger [INFO] [../src/CloudDiskServer.cc:operator()():372] SELECT file_hash, file_size, file_name, upload_at, last_update FROM cloud_disk.tbl_user_file WHERE user_name = 'Tvux' limit 15
+2023-10-07 01:47:31,997 logger [INFO] [../src/CloudDiskServer.cc:operator()():381] 1 row in set
+2023-10-07 01:47:31,997 logger [INFO] [../src/CloudDiskServer.cc:operator()():398] {"FileHash":"aaa","FileName":"bbb","FileSize":123,"LastUpdated":"2023-10-06 21:59:40","UploadAt":"2023-10-06 21:59:40"}
+2023-10-07 01:47:35,706 logger [INFO] [../src/CloudDiskServer.cc:operator()():281] username = Tvux, token = 7f9d29467c7366c83fffa380e80eaaf620231007014710
+2023-10-07 01:47:35,706 logger [INFO] [../src/CloudDiskServer.cc:operator()():343] GET Tvux
+2023-10-07 01:47:35,706 logger [INFO] [../src/CloudDiskServer.cc:operator()():297] SELECT email, phone, signup_at FROM cloud_disk.tbl_user WHERE user_name = 'Tvux' limit 1
+2023-10-07 01:47:35,706 logger [INFO] [../src/CloudDiskServer.cc:operator()():308] 1 row in set
+2023-10-07 01:47:35,706 logger [INFO] [../src/CloudDiskServer.cc:operator()():321] {"data":{"Email":"77033933349@qq.com","Phone":"77033933349","SignupAt":"2023-10-06 21:58:45","Username":"Tvux"}}
+2023-10-07 01:47:35,710 logger [INFO] [../src/CloudDiskServer.cc:operator()():357] username = Tvux, token = 7f9d29467c7366c83fffa380e80eaaf620231007014710, limit = 15
+2023-10-07 01:47:35,710 logger [INFO] [../src/CloudDiskServer.cc:operator()():417] GET Tvux
+2023-10-07 01:47:35,711 logger [INFO] [../src/CloudDiskServer.cc:operator()():372] SELECT file_hash, file_size, file_name, upload_at, last_update FROM cloud_disk.tbl_user_file WHERE user_name = 'Tvux' limit 15
+2023-10-07 01:47:35,711 logger [INFO] [../src/CloudDiskServer.cc:operator()():381] 1 row in set
+2023-10-07 01:47:35,711 logger [INFO] [../src/CloudDiskServer.cc:operator()():398] {"FileHash":"aaa","FileName":"bbb","FileSize":123,"LastUpdated":"2023-10-06 21:59:40","UploadAt":"2023-10-06 21:59:40"}
+2023-10-07 01:55:57,607 logger [INFO] [../src/CloudDiskServer.cc:start():35] CloudDiskServer start success!
+2023-10-07 01:56:10,551 logger [INFO] [../src/CloudDiskServer.cc:operator()():112] INSERT INTO cloud_disk.tbl_user(user_name, salt, user_pwd, email, phone) VALUES('Tvux', '$6$JJHCvEwSsDQke5nR$', '$6$JJHCvEwSsDQke5nR$93rM1cVa91yqV031EuEKz6ceH/7DiJQ9ob4A/o1LD1L.h82aly9TgyknKyzo1aKAjqoPXVSD2xosJalnffRaH.', '31727408436@qq.com', '31727408436')
+2023-10-07 01:56:10,566 logger [INFO] [../src/CloudDiskServer.cc:operator()():143] Query OK, 1 row affected
+2023-10-07 01:56:16,266 logger [INFO] [../src/CloudDiskServer.cc:operator()():175] SELECT salt, user_pwd FROM cloud_disk.tbl_user WHERE user_name = 'Tvux' limit 1
+2023-10-07 01:56:16,267 logger [INFO] [../src/CloudDiskServer.cc:operator()():210] 1 row in set
+2023-10-07 01:56:16,269 logger [INFO] [../src/CloudDiskServer.cc:operator()():235] SET Tvux a1155719681da571f09c9d7449af258420231007015616
+2023-10-07 01:56:16,269 logger [INFO] [../src/CloudDiskServer.cc:operator()():244] REPLACE INTO cloud_disk.tbl_user_token (user_name, user_token) VALUES ('Tvux', 'a1155719681da571f09c9d7449af258420231007015616')
+2023-10-07 01:56:16,269 logger [INFO] [../src/CloudDiskServer.cc:operator()():260] {"data":{"Location":"/static/view/home.html","Token":"a1155719681da571f09c9d7449af258420231007015616","Username":"Tvux"}}
+2023-10-07 01:56:16,279 logger [INFO] [../src/CloudDiskServer.cc:operator()():229] EXPIRE Tvux 1800
+2023-10-07 01:56:16,421 logger [INFO] [../src/CloudDiskServer.cc:operator()():281] username = Tvux, token = a1155719681da571f09c9d7449af258420231007015616
+2023-10-07 01:56:16,421 logger [INFO] [../src/CloudDiskServer.cc:operator()():343] GET Tvux
+2023-10-07 01:56:16,421 logger [INFO] [../src/CloudDiskServer.cc:operator()():297] SELECT email, phone, signup_at FROM cloud_disk.tbl_user WHERE user_name = 'Tvux' limit 1
+2023-10-07 01:56:16,422 logger [INFO] [../src/CloudDiskServer.cc:operator()():308] 1 row in set
+2023-10-07 01:56:16,422 logger [INFO] [../src/CloudDiskServer.cc:operator()():321] {"data":{"Email":"31727408436@qq.com","Phone":"31727408436","SignupAt":"2023-10-07 01:56:10","Username":"Tvux"}}
+2023-10-07 01:56:16,426 logger [INFO] [../src/CloudDiskServer.cc:operator()():357] username = Tvux, token = a1155719681da571f09c9d7449af258420231007015616, limit = 15
+2023-10-07 01:56:16,426 logger [INFO] [../src/CloudDiskServer.cc:operator()():417] GET Tvux
+2023-10-07 01:56:16,427 logger [INFO] [../src/CloudDiskServer.cc:operator()():372] SELECT file_hash, file_size, file_name, upload_at, last_update FROM cloud_disk.tbl_user_file WHERE user_name = 'Tvux' limit 15
+2023-10-07 01:56:16,427 logger [INFO] [../src/CloudDiskServer.cc:operator()():381] 0 row in set
+2023-10-07 01:58:48,044 logger [INFO] [../src/CloudDiskServer.cc:start():35] CloudDiskServer start success!
+2023-10-07 01:58:58,033 logger [INFO] [../src/CloudDiskServer.cc:operator()():112] INSERT INTO cloud_disk.tbl_user(user_name, salt, user_pwd, email, phone) VALUES('Tvux', '$6$yULKfMNBuRnF4ALN$', '$6$yULKfMNBuRnF4ALN$Q5iFKTTQdKULhS.zjhDXeOCdDcV9vaqiyBUANMonSLRyllVt5ck2a9RkD2XuUirVJSvvAofmCKuPyPCauO6N1.', '20521491455@qq.com', '20521491455')
+2023-10-07 01:58:58,057 logger [INFO] [../src/CloudDiskServer.cc:operator()():143] Query OK, 1 row affected
+2023-10-07 01:59:02,968 logger [INFO] [../src/CloudDiskServer.cc:operator()():175] SELECT salt, user_pwd FROM cloud_disk.tbl_user WHERE user_name = 'Tvux' limit 1
+2023-10-07 01:59:02,968 logger [INFO] [../src/CloudDiskServer.cc:operator()():210] 1 row in set
+2023-10-07 01:59:05,118 logger [INFO] [../src/CloudDiskServer.cc:operator()():175] SELECT salt, user_pwd FROM cloud_disk.tbl_user WHERE user_name = 'Tvux' limit 1
+2023-10-07 01:59:05,118 logger [INFO] [../src/CloudDiskServer.cc:operator()():210] 1 row in set
+2023-10-07 01:59:05,121 logger [INFO] [../src/CloudDiskServer.cc:operator()():235] SET Tvux 2101d9f4c09a7b5dbca6d7948fe6995920231007015905
+2023-10-07 01:59:05,121 logger [INFO] [../src/CloudDiskServer.cc:operator()():244] REPLACE INTO cloud_disk.tbl_user_token (user_name, user_token) VALUES ('Tvux', '2101d9f4c09a7b5dbca6d7948fe6995920231007015905')
+2023-10-07 01:59:05,121 logger [INFO] [../src/CloudDiskServer.cc:operator()():260] {"data":{"Location":"/static/view/home.html","Token":"2101d9f4c09a7b5dbca6d7948fe6995920231007015905","Username":"Tvux"}}
+2023-10-07 01:59:05,121 logger [INFO] [../src/CloudDiskServer.cc:operator()():229] EXPIRE Tvux 1800
+2023-10-07 01:59:05,286 logger [INFO] [../src/CloudDiskServer.cc:operator()():281] username = Tvux, token = 2101d9f4c09a7b5dbca6d7948fe6995920231007015905
+2023-10-07 01:59:05,286 logger [INFO] [../src/CloudDiskServer.cc:operator()():343] GET Tvux
+2023-10-07 01:59:05,287 logger [INFO] [../src/CloudDiskServer.cc:operator()():297] SELECT email, phone, signup_at FROM cloud_disk.tbl_user WHERE user_name = 'Tvux' limit 1
+2023-10-07 01:59:05,287 logger [INFO] [../src/CloudDiskServer.cc:operator()():308] 1 row in set
+2023-10-07 01:59:05,288 logger [INFO] [../src/CloudDiskServer.cc:operator()():321] {"data":{"Email":"20521491455@qq.com","Phone":"20521491455","SignupAt":"2023-10-07 01:58:58","Username":"Tvux"}}
+2023-10-07 01:59:05,293 logger [INFO] [../src/CloudDiskServer.cc:operator()():357] username = Tvux, token = 2101d9f4c09a7b5dbca6d7948fe6995920231007015905, limit = 15
+2023-10-07 01:59:05,293 logger [INFO] [../src/CloudDiskServer.cc:operator()():417] GET Tvux
+2023-10-07 01:59:05,293 logger [INFO] [../src/CloudDiskServer.cc:operator()():372] SELECT file_hash, file_size, file_name, upload_at, last_update FROM cloud_disk.tbl_user_file WHERE user_name = 'Tvux' limit 15
+2023-10-07 01:59:05,297 logger [INFO] [../src/CloudDiskServer.cc:operator()():381] 0 row in set
+2023-10-07 01:59:27,548 logger [INFO] [../src/CloudDiskServer.cc:operator()():434] username = Tvux, token = 2101d9f4c09a7b5dbca6d7948fe6995920231007015905, filename = test.txt
+2023-10-07 01:59:27,548 logger [INFO] [../src/CloudDiskServer.cc:operator()():491] GET Tvux
+2023-10-07 01:59:27,549 logger [INFO] [../src/CloudDiskServer.cc:operator()():453] create ./Tvux/test.txt complete
+2023-10-07 01:59:27,549 logger [INFO] [../src/CloudDiskServer.cc:operator()():474] INSERT INTO cloud_disk.tbl_user_file(user_name, file_hash, file_size, file_name) VALUES('Tvux', '6f53865fdad20dff2fbdfa5130207d36e18a6954', 1850, 'test.txt')
+2023-10-07 01:59:27,731 logger [INFO] [../src/CloudDiskServer.cc:operator()():281] username = Tvux, token = 2101d9f4c09a7b5dbca6d7948fe6995920231007015905
+2023-10-07 01:59:27,731 logger [INFO] [../src/CloudDiskServer.cc:operator()():343] GET Tvux
+2023-10-07 01:59:27,731 logger [INFO] [../src/CloudDiskServer.cc:operator()():297] SELECT email, phone, signup_at FROM cloud_disk.tbl_user WHERE user_name = 'Tvux' limit 1
+2023-10-07 01:59:27,732 logger [INFO] [../src/CloudDiskServer.cc:operator()():308] 1 row in set
+2023-10-07 01:59:27,732 logger [INFO] [../src/CloudDiskServer.cc:operator()():321] {"data":{"Email":"20521491455@qq.com","Phone":"20521491455","SignupAt":"2023-10-07 01:58:58","Username":"Tvux"}}
+2023-10-07 01:59:27,736 logger [INFO] [../src/CloudDiskServer.cc:operator()():357] username = Tvux, token = 2101d9f4c09a7b5dbca6d7948fe6995920231007015905, limit = 15
+2023-10-07 01:59:27,736 logger [INFO] [../src/CloudDiskServer.cc:operator()():417] GET Tvux
+2023-10-07 01:59:27,736 logger [INFO] [../src/CloudDiskServer.cc:operator()():372] SELECT file_hash, file_size, file_name, upload_at, last_update FROM cloud_disk.tbl_user_file WHERE user_name = 'Tvux' limit 15
+2023-10-07 01:59:27,736 logger [INFO] [../src/CloudDiskServer.cc:operator()():381] 1 row in set
+2023-10-07 01:59:27,736 logger [INFO] [../src/CloudDiskServer.cc:operator()():398] {"FileHash":"6f53865fdad20dff2fbdfa5130207d36e18a6954","FileName":"test.txt","FileSize":1850,"LastUpdated":"2023-10-07 01:59:27","UploadAt":"2023-10-07 01:59:27"}
+2023-10-07 01:59:31,993 logger [INFO] [../src/CloudDiskServer.cc:operator()():506] username = Tvux, token = 2101d9f4c09a7b5dbca6d7948fe6995920231007015905, filename = test.txt
+2023-10-07 01:59:31,993 logger [INFO] [../src/CloudDiskServer.cc:operator()():535] GET Tvux
