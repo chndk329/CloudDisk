@@ -1,0 +1,31 @@
+syntax = "proto3"; // 指定使用proto3语法，默认proto2语法
+
+// 定义一个请求消息
+message ReqSignup
+{
+    // required - 必须出现（默认）
+    // optional - 可以出现，也可以不出校
+    // repeated - 可以重复出现，表示数组
+    // 类型 字段名   编号
+    string username = 1; // 编号是用来编码的，不是值
+    string password = 2;
+}
+
+// 定义一个响应消息
+message RespSignup
+{
+    // code：状态码 0 - 成功 -1 - 失败
+    int32 code = 1;
+    // 成功 - OK
+    string msg = 2;
+}
+
+// 服务
+service SignupService
+{
+    // 类似于函数的用法
+    // Signup 类似函数名
+    // ReqSignup 类似传入参数
+    // RespSignup 类似返回值
+    rpc Signup(ReqSignup) returns (RespSignup) {}
+}
